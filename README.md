@@ -99,11 +99,11 @@ Within `/src/App.jsx` you will see a variable called `siteProps`. This is a Java
 
 ```javascript
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
+  name: "Gabriel Magno",
+  title: "Desenvolvedor web informação",
+  email: "gabriel.magno@academico.ifpb.edu.br.com",
+  gitHub: "https://github.com/GabrielMS02",
+  instagram: "gabriel_ms02",
   linkedIn: "satyanadella",
   medium: "",
   twitter: "microsoft",
