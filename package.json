@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://GabrielMS02github.io/portfolio-gabriel",
+  "homepage": "https://GabrielMS02.github.io/portfolio-gabriel",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
